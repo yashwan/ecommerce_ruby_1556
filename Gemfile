@@ -46,6 +46,10 @@ gem "tzinfo"
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
+gem 'net-smtp', require: false
+gem 'net-pop', require: false
+gem 'net-imap', require: false
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 

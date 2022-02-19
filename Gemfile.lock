@@ -230,6 +230,9 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
+  net-imap
+  net-pop
+  net-smtp
   puma (~> 5.0)
   rails (~> 7.0.2)
   selenium-webdriver
